@@ -1,0 +1,16 @@
+c:\users\administrator\documents\visual studio 2010\Projects\TfsAPIDemoProcessTemplate\TfsAPIDemoProcessTemplate\bin\Debug\TfsAPIDemoProcessTemplate.exe
+c:\users\administrator\documents\visual studio 2010\Projects\TfsAPIDemoProcessTemplate\TfsAPIDemoProcessTemplate\bin\Debug\TfsAPIDemoProcessTemplate.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\TfsAPIDemoProcessTemplate\TfsAPIDemoProcessTemplate\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\TfsAPIDemoProcessTemplate\TfsAPIDemoProcessTemplate\obj\x86\Debug\TfsAPIDemoProcessTemplate.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\TfsAPIDemoProcessTemplate\TfsAPIDemoProcessTemplate\obj\x86\Debug\TfsAPIDemoProcessTemplate.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\TfsAPIDemoProcessTemplate\TfsAPIDemoProcessTemplate\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\TfsAPIDemoProcessTemplate\TfsAPIDemoProcessTemplate\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\TfsAPIDemoProcessTemplate\TfsAPIDemoProcessTemplate\obj\x86\Debug\TfsAPIDemoProcessTemplate.exe
+c:\users\administrator\documents\visual studio 2010\Projects\TfsAPIDemoProcessTemplate\TfsAPIDemoProcessTemplate\obj\x86\Debug\TfsAPIDemoProcessTemplate.pdb
+C:\Users\marwa\Downloads\Compressed\TfsAPIDemoProcessTemplate\TfsAPIDemoProcessTemplate\TfsAPIDemoProcessTemplate\obj\x86\Debug\TfsAPIDemoProcessTemplate.csprojResolveAssemblyReference.cache
+C:\Users\marwa\Downloads\Compressed\TfsAPIDemoProcessTemplate\TfsAPIDemoProcessTemplate\TfsAPIDemoProcessTemplate\obj\x86\Debug\TfsAPIDemoProcessTemplate.Form1.resources
+C:\Users\marwa\Downloads\Compressed\TfsAPIDemoProcessTemplate\TfsAPIDemoProcessTemplate\TfsAPIDemoProcessTemplate\obj\x86\Debug\TfsAPIDemoProcessTemplate.Properties.Resources.resources
+C:\Users\marwa\Downloads\Compressed\TfsAPIDemoProcessTemplate\TfsAPIDemoProcessTemplate\TfsAPIDemoProcessTemplate\obj\x86\Debug\TfsAPIDemoProcessTemplate.csproj.GenerateResource.Cache
+C:\Users\marwa\Downloads\Compressed\TfsAPIDemoProcessTemplate\TfsAPIDemoProcessTemplate\TfsAPIDemoProcessTemplate\obj\x86\Debug\TfsAPIDemoProcessTemplate.csproj.CoreCompileInputs.cache
+C:\Users\marwa\Downloads\Compressed\TfsAPIDemoProcessTemplate\TfsAPIDemoProcessTemplate\TfsAPIDemoProcessTemplate\obj\x86\Debug\TfsAPIDemoProcessTemplate.exe
+C:\Users\marwa\Downloads\Compressed\TfsAPIDemoProcessTemplate\TfsAPIDemoProcessTemplate\TfsAPIDemoProcessTemplate\obj\x86\Debug\TfsAPIDemoProcessTemplate.pdb
